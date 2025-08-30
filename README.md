@@ -1,7 +1,7 @@
 # 🎓 Scholarship Finder
 
 A full-stack web application that helps students to search, filter, and apply for opportunities based on eligibility, deadline, region, and other criteria.
----
+
 
 
 ## Technologies Used
