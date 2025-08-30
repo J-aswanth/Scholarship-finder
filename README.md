@@ -12,19 +12,6 @@ A full-stack web application that helps students to search, filter, and apply fo
 ---
 
 
-### Installation
-
-1. **Clone the repository:**
- 
-Install the dependencies:
-```
-npm install
-```
-
-Set up Google OAuth credentials:
-- Create a project in the Google Developers Console (https://console.developers.google.com/)
-- Enable the Google OAuth 2.0 API and get the client ID and client secret
-- Replace the placeholders for GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET in server.js with your actual credentials
 
 ##  Getting Started
 
